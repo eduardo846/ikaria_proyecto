@@ -2,9 +2,13 @@ name: CI y Deploy a Netlify
 
 on:
   push:
-    branches: [main, desarrollo]
+    branches: 
+      - main
+      - desarrollo
   pull_request:
-    branches: [main, desarrollo]
+    branches: 
+      - main
+      - desarrollo
 
 concurrency:
   group: deploy-${{ github.ref }}
