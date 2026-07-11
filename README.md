@@ -162,5 +162,5 @@ Este proyecto asume reglas de Firestore basadas en rol (`isAdmin()`), donde:
 ---
 
 ## 📄 Licencia 
-Hector Ramirez
+Hector Ramirez HR
 Uso interno — Conjunto Ikaria Apartamentos P.H.
